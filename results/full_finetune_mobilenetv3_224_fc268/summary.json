@@ -1,0 +1,13 @@
+{
+  "num_folds": 4,
+  "epochs": 50,
+  "architecture": "Input224 -> MobileNetV3 backbone -> GAP -> FC(576->268) -> Softmax",
+  "final_val_acc_mean": 0.9899384238345625,
+  "final_val_acc_std": 0.0018370495560703344,
+  "final_val_macro_f1_mean": 0.9827113566707104,
+  "final_val_macro_f1_std": 0.00350816853266091,
+  "best_val_acc_mean": 0.9903157823251285,
+  "best_val_acc_std": 0.0013848419587635732,
+  "best_val_macro_f1_mean": 0.9833776000420622,
+  "best_val_macro_f1_std": 0.0037875270584514596
+}
