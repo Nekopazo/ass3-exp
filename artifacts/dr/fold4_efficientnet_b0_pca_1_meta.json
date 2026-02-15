@@ -1,0 +1,8 @@
+{
+  "fold": 4,
+  "backbone": "efficientnet_b0",
+  "dr": "pca",
+  "k": "1",
+  "d_lda": 267,
+  "out_dim": 1
+}

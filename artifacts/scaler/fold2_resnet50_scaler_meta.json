@@ -1,0 +1,7 @@
+{
+  "fold": 2,
+  "backbone": "resnet50",
+  "n_train": 3648,
+  "n_test": 1275,
+  "n_features": 2082
+}

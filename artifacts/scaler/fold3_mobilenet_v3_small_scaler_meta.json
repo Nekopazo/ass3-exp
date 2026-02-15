@@ -1,0 +1,7 @@
+{
+  "fold": 3,
+  "backbone": "mobilenet_v3_small",
+  "n_train": 3737,
+  "n_test": 1186,
+  "n_features": 610
+}

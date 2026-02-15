@@ -1,0 +1,4 @@
+fold,backbone,feature,dr,k,clf,accuracy,macro_f1
+4,mobilenet_v3_small,EplusT,lda,16,linearsvc,0.9604221635883905,0.9406847986586677
+4,mobilenet_v3_small,EplusT,lda,16,logreg,0.9841688654353562,0.9783046899344667
+4,mobilenet_v3_small,EplusT,lda,16,knn,0.9841688654353562,0.971222324218951

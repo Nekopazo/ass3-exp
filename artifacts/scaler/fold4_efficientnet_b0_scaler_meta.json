@@ -1,0 +1,7 @@
+{
+  "fold": 4,
+  "backbone": "efficientnet_b0",
+  "n_train": 3786,
+  "n_test": 1137,
+  "n_features": 1314
+}

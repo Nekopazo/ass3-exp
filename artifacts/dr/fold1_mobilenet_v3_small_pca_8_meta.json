@@ -1,0 +1,8 @@
+{
+  "fold": 1,
+  "backbone": "mobilenet_v3_small",
+  "dr": "pca",
+  "k": "8",
+  "d_lda": 267,
+  "out_dim": 8
+}

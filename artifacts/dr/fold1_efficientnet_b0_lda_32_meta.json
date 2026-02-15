@@ -1,0 +1,8 @@
+{
+  "fold": 1,
+  "backbone": "efficientnet_b0",
+  "dr": "lda",
+  "k": "32",
+  "d_lda": 267,
+  "out_dim": 32
+}

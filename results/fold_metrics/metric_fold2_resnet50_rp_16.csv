@@ -1,0 +1,4 @@
+fold,backbone,feature,dr,k,clf,accuracy,macro_f1
+2,resnet50,EplusT,rp,16,linearsvc,0.5772549019607843,0.5313168523904862
+2,resnet50,EplusT,rp,16,logreg,0.5741176470588235,0.5349959651695155
+2,resnet50,EplusT,rp,16,knn,0.6321568627450981,0.5618761624148341

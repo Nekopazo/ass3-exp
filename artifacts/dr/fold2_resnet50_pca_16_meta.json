@@ -1,0 +1,8 @@
+{
+  "fold": 2,
+  "backbone": "resnet50",
+  "dr": "pca",
+  "k": "16",
+  "d_lda": 267,
+  "out_dim": 16
+}
