@@ -59,3 +59,7 @@ Thumbs.db
 *.pth
 *.pt
 *.onnx
+
+# 不忽略results目录
+!results/
+!results/**
